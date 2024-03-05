@@ -29,3 +29,6 @@ Tem dúvidas sobre o curso ou quer conversar sobre contribuições específicas?
 
 A união faz a força, e juntos vamos construir um espaço rico em conhecimento, beneficiando não só a galera de Engenharia de Produção mas toda a comunidade acadêmica e profissional. Obrigado por se juntar a nós nessa jornada!
 
+
+
+*Versão criada pelo prof Johnatan Oliveira* 
